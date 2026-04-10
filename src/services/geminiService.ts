@@ -1,6 +1,6 @@
 import { GoogleGenAI } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || "" });
+const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || "AIzaSyBMcTQfxm7H0h-K4w5hbXtggfpzcHsYkkc" });
 
 const SYSTEM_INSTRUCTION = `You are "Coach", a highly efficient, supportive, and slightly firm daily task coach. 
 Your goal is to help the user plan their day, break down complex tasks, and stay motivated.
