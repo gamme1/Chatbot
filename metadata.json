@@ -1,0 +1,5 @@
+{
+  "name": "TaskCoach AI",
+  "description": "A daily task coach chat bot powered by Gemini to help you plan and conquer your day.",
+  "requestFramePermissions": []
+}
